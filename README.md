@@ -1,6 +1,6 @@
 # General Introduction
 
-This repository provides the code and datasets used in this article - Zhiqiang Li, Qiannan Du, Hongyu Zhang, Xiao-Yuan Jing, Fei Wu. An empirical study of data sampling techniques for just-in-time software defect prediction, to appear Automated Software Engineering, doi: 10.1007/s10515-024-00455-8. 
+This repository provides the code and datasets used in this article - *Zhiqiang Li, Qiannan Du, Hongyu Zhang, Xiao-Yuan Jing, Fei Wu*. An empirical study of data sampling techniques for just-in-time software defect prediction, to appear *Automated Software Engineering, doi: 10.1007/s10515-024-00455-8*. 
 
 ### Environment Preparation
 
